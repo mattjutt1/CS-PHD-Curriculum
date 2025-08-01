@@ -1,0 +1,47 @@
+{
+  "semester": "Fall",
+  "year": 1,
+  "courses": [
+    {
+      "code": "CS 50 / CS 101",
+      "title": "Intro to Computer Science & Programming",
+      "weeks": 15,
+      "outcomes": [
+        "Write working code in Python & C++",
+        "Debug program-flow, use loops/conditions/functions",
+        "Track versions with Git, document code"
+      ]
+    },
+    {
+      "code": "MATH 115",
+      "title": "Calculus I & Mathematical Reasoning",
+      "weeks": 15,
+      "outcomes": [
+        "Compute limits and basic derivatives & integrals",
+        "Prove simple results by induction or contradiction",
+        "Translate word problems into mathematical statements"
+      ]
+    },
+    {
+      "code": "ENGL 101",
+      "title": "Composition & Rhetoric",
+      "weeks": 15,
+      "outcomes": [
+        "Write coherent technical essays (~3–5 pp)",
+        "Construct evidence-based arguments",
+        "Practice peer review & revision"
+      ]
+    },
+    {
+      "code": "FYS 100",
+      "title": "First‑Year Seminar: Ethics & Computing",
+      "weeks": 13,
+      "outcomes": [
+        "Evaluate tech case-studies (privacy, bias, systems)",
+        "Argue ethical trade-offs through structured debate",
+        "Reflect publicly, in brief essays or presentations"
+      ]
+    }
+  ],
+  "project": "Build a terminal-based calculator or data logger; push code on GitHub, include README and test cases"
+}
